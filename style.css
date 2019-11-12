@@ -1,0 +1,31 @@
+body {
+    font-size: large;
+    font-family: 'Bellefair', serif;
+}
+
+button, input {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+#main {
+    max-width: 600px;
+    margin: 0 auto; 
+    padding: 2em;
+    background-color: #DFEFF0;
+}
+
+#sample-text {
+    margin-top: 5em;
+}
+
+.controls {
+    margin: 1em;
+}
+
+.controls button, input {
+    margin-right: 0.25em;
+}
+
+.controls input {
+    display: block;
+}
